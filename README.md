@@ -1,3 +1,3 @@
-# Reusable Github Workflows Template
+# Reusable Github Workflows for Node.js
 
-Project to fork to instanciate reusable workflows and with `release-please` delivery.
+Centralized repo for different Workflows for `Node.js` language to avoid duplicate code.
